@@ -10,7 +10,7 @@ CRUD application using NestJS/Fastify and a PostgreSQL database for learning pur
 - Fastify
 - PostgreSQL
 
-###Running the Server:
+### Running the Server:
 - `npm install` to install all required dependencies
 - `npm run start` to start the local server
 - `npm run start:dev` to start the local dev server
